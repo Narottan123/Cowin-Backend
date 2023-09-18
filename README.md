@@ -23,7 +23,7 @@ Before running the project, make sure you have the following installed:
 
  Clone the repository:
 
- 1.  git clone https://github.com/Narottan123/AarogyaSetu-Backend.git
+ 1.  git clone https://github.com/Narottan123/Cowin-Backend.git
  2. Install dependencies:  npm install
 
 ## Usage
